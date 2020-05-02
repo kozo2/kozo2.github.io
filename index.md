@@ -1,4 +1,6 @@
-# Kozo Nishida
+---
+title: Kozo Nishida
+---
 
 ## Open source projects
 
