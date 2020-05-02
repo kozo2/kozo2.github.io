@@ -1,10 +1,6 @@
----
-title: Kozo Nishida
----
+# Open source projects
 
-## Open source projects
+## [KEGGscape](http://apps.cytoscape.org/apps/keggscape)
 
-### [KEGGscape](http://apps.cytoscape.org/apps/keggscape)
-
-## Community activities
+# Community activities
 
